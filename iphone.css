@@ -1,0 +1,489 @@
+.div1
+{
+    height:30px;
+    width:1400px;
+    background-color:black;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-top: 10px;
+    padding-left: 150px;
+
+}
+ul,li
+{
+    text-decoration-style: none;
+    display: inline;
+    justify-content: space-between;
+    padding: 20px;
+    color: aliceblue;
+}
+.img{
+    height:20px;
+    width:20px;
+}
+.div2
+{
+    height:30px;
+    width:1550px;
+    padding-top: 10px;
+    padding-left: 400px;
+}
+a{
+    text-decoration: none;
+}
+.div3
+{
+    height:520px;
+    width:1550px;
+    background-color: black;
+    padding-top: 40px;
+}
+.font1
+{
+    color: aliceblue;
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 50px;
+    padding-left:600px ;
+}
+.font2
+{
+    color: aliceblue;
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 50px;
+    padding-left:680px ;
+}
+.a
+{
+    padding-left: 650px;
+}
+.iphone1
+{
+    padding-left: 300px;
+    height:400px;
+    width:900px;
+}
+.div4
+{
+    height:520px;
+    width:1550px;
+    background-color:white;
+    padding-top: 40px;
+}
+.font3{
+    color: black;
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 50px;
+    padding-left:600px ;
+}
+.font4
+{
+    color: black;
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 50px;
+    padding-left:680px ;
+}
+.div5
+{
+    height:542px;
+    width:1550px;
+    background-color: black;
+    padding-top: 40px;
+}
+.font5
+{
+    color: white;
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 50px;
+    
+}
+.font6
+{
+    color: red;
+    font-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 50px;
+    padding-left:680px ;
+}
+.img1{
+    height:50px;
+    width:50px;
+    padding-left: 600px;
+}
+.font7
+{
+    color: white;
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 50px;
+    padding-left:630px ;
+}
+.div6
+{
+    height:400px;
+    width:50%;
+    background-color: white;
+}
+.div7
+{
+    height:520px;
+    width:50%;
+    background-color: black;
+}
+.main
+{
+    display: flex;
+    margin-top:20px;
+}
+.font8
+{
+    color: black;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    
+   
+}
+.a2
+{
+    height:40px;
+    width:40px;
+    padding-left: 250px;
+}
+.font9
+{
+    color: black;
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 170px;
+}
+.atag{
+    padding-left:230px ;
+}
+.img5
+{
+    height: 400px;
+    width: 750px;
+}
+.img6{
+    height: 350px;
+    width: 600px;
+}
+.font10
+{
+    color: white;
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.img10{
+    height:50px;
+    width:50px;
+    padding-left:200px;   
+}
+.font11
+{
+    color: white;
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 180px;
+}
+.font12
+{
+    color: white;
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 240px;
+}
+.div8
+{
+    height:400px;
+    width:50%;
+    background-color: white;
+}
+.div9
+{
+    height:520px;
+    width:50%;
+    background-color: black;
+}
+.img7
+{
+    height: 400px;
+    width: 750px;
+    padding-left: 50px;
+}
+.img8
+{
+    height: 350px;
+    width: 600px;
+    padding-left: 100px;
+}
+.font13
+{
+    color: black;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 300px;
+   
+}
+.font14
+{
+    color: black;
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 200px;
+   
+}
+.atag1{
+    padding-left:270px ;
+}
+.font15
+{
+    color: white;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 300px;
+   
+}
+.font16
+{
+    color: white;
+    font-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 260px;
+   
+}
+.atag11{
+    padding-left:320px ;
+}
+.white1
+{
+    width:50%;
+    background-color:white;
+}
+.white2
+{
+    width:50%;
+    background-color:white;
+}
+.font17
+{
+    color: black;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 260px;
+   
+}
+.font18
+{
+    color: black;
+    font-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 290px;
+   
+}
+.atag111{
+    padding-left:300px ;
+}
+.font19
+{
+    color: black;
+    font-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 310px;
+}
+.a3
+{
+    height:40px;
+    width:40px;
+    padding-left: 300px;
+}
+.img9
+{
+    height: 380px;
+    width: 600px;
+    padding-left: 100px;
+}
+.img11
+{
+    width:100%;
+}
+.div10
+{
+    height: 10px;
+    width:10px;
+    border-radius: 10px;
+    background-color: black;
+    
+}
+.div11
+{
+    padding-left: 700px;
+    display:flex;
+    
+}
+.div12
+{
+    height: 10px;
+    width:10px;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+.div13
+{
+    height: 10px;
+    width:10px;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+.div14
+{
+    height: 10px;
+    width:10px;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+.div15
+{
+    height: 10px;
+    width:10px;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+.div16
+{
+    height: 10px;
+    width:10px;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+.div17
+{
+    height: 10px;
+    width:10px;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+.div18
+{
+    height: 10px;
+    width:10px;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+.div19
+{
+    height: 10px;
+    width:10px;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+.div20
+{
+    height: 10px;
+    width:10px;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+.div21
+{
+    height: 10px;
+    width:10px;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+.div12a
+{
+    padding-left: 15px;
+}
+.div13a
+{
+    padding-left: 15px;
+}
+.div14a
+{
+    padding-left: 15px;
+}
+.div15a
+{
+    padding-left: 15px;
+}
+.div16a
+{
+    padding-left: 15px;
+}
+.div17a
+{
+    padding-left: 15px;
+}
+.div18a
+{
+    padding-left: 15px;
+}
+.div19a
+{
+    padding-left: 15px;
+}
+.div20a
+{
+    padding-left: 15px;
+}
+.div21a
+{
+    padding-left: 15px;
+}
+.div22
+{
+    padding-left: 350px;
+    padding-right: 350px;
+}
+.div23
+{
+    text-align: justify;
+    font-size: 60%;
+}
+hr{
+    width:800px;
+}
+.div24
+{
+    padding-left: 270px;
+    font-size:70%;
+}
+.div25
+{
+    display: flex;
+}
+.div26
+{
+    
+    font-size: 70%;
+}
+.div27
+{
+    
+    font-size: 70%;
+}
+.div28
+{
+    
+    font-size: 70%;
+}
+.div29
+{
+    
+    font-size: 70%;
+}
+.div30
+{
+    padding-left: 350px;
+    font-size: smaller;
+}
+.div31{
+    padding-left: 290px;
+    font-size: 70%;
+}
